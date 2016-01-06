@@ -28,7 +28,7 @@ For me, I prefer to pin the SPKI and in sha1 hashed format, as aligned with okht
 
 ## Where to store the pinned information
 
-Origionally for native mobile app development, we used to setup pinned information in source code as the okhttp sample
+Originally for native mobile app development, we used to setup pinned information in source code as the okhttp sample
 
 ```java
    client = new OkHttpClient.Builder()
